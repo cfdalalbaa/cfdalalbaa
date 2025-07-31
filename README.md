@@ -1,4 +1,4 @@
-<h1 align="center">Fala, pessoal! 👋 Me chamo Claudio Dalalba</h1>
+<h1 align="center">Fala, pessoal! 👋 Me chamo Claudio Filipe</h1>
 
 <p align="center">
   Estudante de Análise e Desenvolvimento de Sistemas | Focado em Front-End | Apaixonado por tecnologia e canto coral ☕
