@@ -24,10 +24,13 @@
 | Projeto 1 | HTML + CSS | Uma pagina simples e responsiva sobre o mascote do Android
 | Projeto 2 | HTML + CSS | Uma pagina sobre o Cordel de Milton Duarte com efeito Parallax no background
 
-> 👉 Todos os projetos estão nos repositórios públicos aqui no GitHub!
+### 🚀 Projetos em destaque
 
-> [https://github.com/cfdalalbaa/projeto-android](https://cfdalalbaa.github.io/projeto-android/)
-> [https://cfdalalbaa.github.io/projeto-cordel/](https://cfdalalbaa.github.io/projeto-cordel/)
+- 🤖 **[Projeto Android](https://cfdalalbaa.github.io/projeto-android/)**  
+
+
+- 📜 **[Projeto Cordel](https://cfdalalbaa.github.io/projeto-cordel/)**  
+
 
 ---
 
