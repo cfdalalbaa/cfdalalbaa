@@ -21,8 +21,8 @@
 
 | Nome | Tecnologias | Descrição |
 |------|-------------|-----------|
-| Projeto 1 | HTML + CSS | Uma pagina simples e responsiva sobre o mascote do Android -> [https://github.com/cfdalalbaa/projeto-android](https://cfdalalbaa.github.io/projeto-android/)
-| Projeto 2 | HTML + CSS | Uma pagina sobre o Cordel de Milton Duarte com efeito Parallax no background  -> [https://cfdalalbaa.github.io/projeto-cordel/](https://cfdalalbaa.github.io/projeto-cordel/)
+| Projeto 1 | HTML + CSS | Uma pagina simples e responsiva sobre o mascote do Android [https://github.com/cfdalalbaa/projeto-android](https://cfdalalbaa.github.io/projeto-android/)
+| Projeto 2 | HTML + CSS | Uma pagina sobre o Cordel de Milton Duarte com efeito Parallax no background [https://cfdalalbaa.github.io/projeto-cordel/](https://cfdalalbaa.github.io/projeto-cordel/)
 
 ---
 
