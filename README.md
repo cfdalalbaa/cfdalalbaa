@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <h1 align="center">Fala, pessoal! 👋 Me chamo Claudio Dalalba</h1>
 
 <p align="center">
